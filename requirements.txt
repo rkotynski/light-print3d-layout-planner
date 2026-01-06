@@ -1,0 +1,5 @@
+numpy>=1.23
+pyqt5>=5.15
+matplotlib>=3.7
+numpy-stl>=3.0
+
