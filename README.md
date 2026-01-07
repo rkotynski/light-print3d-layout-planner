@@ -1,4 +1,6 @@
-# Print3D Layout Planner
+# Light Print3D Layout Planner
+
+[https://github.com/rkotynski/light-print3d-layout-planner](https://github.com/rkotynski/light-print3d-layout-planner)
 
 **A desktop tool for arranging STL models, checking collisions and exporting printable scenes**
 
@@ -8,6 +10,8 @@ It provides fast 2D and 3D previews, collision detection, automatic placement
 and export-ready STL generation with optional lattice support.
 
 ---
+
+
 
 ## Features
 
@@ -61,13 +65,11 @@ and export-ready STL generation with optional lattice support.
 - matplotlib
 - numpy-stl
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
 
 ## License
 MIT License
 
+## Screenshots
+![Main window](https://github.com/rkotynski/light-print3d-layout-planner/blob/main/screenshot.png "Main window")
+![3D Preview](https://github.com/rkotynski/light-print3d-layout-planner/blob/main/view%203d.png "3D Preview")
 
